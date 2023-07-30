@@ -1,4 +1,4 @@
-# KGS-Global-
+# KGS-Global on Blockchain
 The Koh-e-Noor Diamond is known for its beauty and royalty. The token will be native to the educational venture of Knowledge Gateway Schools (Global) which started telling the world about the four stars of the future in 2019. Yes, before Google and any other technology giant, it was KGS that started training and running awareness campaigns regarding the combo of top four technologies which will transfor the future. The four technologies are Blockchain, Metaverse, Web 3, and Artificial Intelligence combined to reshape future of the world. KGS was the first school to teach the pack containing combo of these four and produced gems which it called Koh-e-Noor. The token is our recognition of the combo and a contribution to the mother technology i.e Blockchain.
 Knowledge Gateway School is a revolutionary platform where students enter to learn and earn from day one.
 Reason for establishment of KGS by Prof. Ahmad Bilal Khan:
