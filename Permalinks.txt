@@ -1,0 +1,23 @@
+Permalinks:
+*****KEN Polygon:
+https://polygonscan.com/address/0x0835cdd017ea7bc4cc187c6e0f8ea2dbe0fea0dd#code#F1#L1
+https://polygonscan.com/address/0x0835cdd017ea7bc4cc187c6e0f8ea2dbe0fea0dd#code#F2#L1
+https://polygonscan.com/address/0x0835cdd017ea7bc4cc187c6e0f8ea2dbe0fea0dd#code#F3#L1
+https://polygonscan.com/address/0x0835cdd017ea7bc4cc187c6e0f8ea2dbe0fea0dd#code#F4#L1
+https://polygonscan.com/address/0x0835cdd017ea7bc4cc187c6e0f8ea2dbe0fea0dd#code#F5#L1
+https://polygonscan.com/address/0x0835cdd017ea7bc4cc187c6e0f8ea2dbe0fea0dd#code#F6#L1
+https://polygonscan.com/address/0x0835cdd017ea7bc4cc187c6e0f8ea2dbe0fea0dd#code#F7#L1
+https://polygonscan.com/address/0x0835cdd017ea7bc4cc187c6e0f8ea2dbe0fea0dd#code#F8#L1
+https://polygonscan.com/address/0x0835cdd017ea7bc4cc187c6e0f8ea2dbe0fea0dd#code#F9#L1
+https://polygonscan.com/address/0x0835cdd017ea7bc4cc187c6e0f8ea2dbe0fea0dd#code#L1
+
+*****KEN BNB:
+https://bscscan.com/address/0x7e0c21bfc08a4abf17cd52a2424a8f8eeeec8431#code#F1#L21
+https://bscscan.com/address/0x7e0c21bfc08a4abf17cd52a2424a8f8eeeec8431#code#F2#L1
+https://bscscan.com/address/0x7e0c21bfc08a4abf17cd52a2424a8f8eeeec8431#code#F3#L1
+https://bscscan.com/address/0x7e0c21bfc08a4abf17cd52a2424a8f8eeeec8431#code#F4#L1
+https://bscscan.com/address/0x7e0c21bfc08a4abf17cd52a2424a8f8eeeec8431#code#F5#L1
+https://bscscan.com/address/0x7e0c21bfc08a4abf17cd52a2424a8f8eeeec8431#code#F7#L1
+https://bscscan.com/address/0x7e0c21bfc08a4abf17cd52a2424a8f8eeeec8431#code#F8#L1
+https://bscscan.com/address/0x7e0c21bfc08a4abf17cd52a2424a8f8eeeec8431#code#F9#L1
+https://bscscan.com/address/0x7e0c21bfc08a4abf17cd52a2424a8f8eeeec8431#code#L1
